@@ -13,7 +13,7 @@
 			{
 				"label": "One Dark Pro Custom",
 				"uiTheme": "vs-dark",
-				"path": "./themes/OneDark-Pro-Custom.json"
+				"path": "./themes/OneDark-Custom.json"
 			}
 		]
 	}
