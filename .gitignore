@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+*.log
+explorations
+
+*_old.json

@@ -1,0 +1,20 @@
+{
+	"name": "Custom-Dark-theme",
+	"displayName": "One Dark Pro Custom",
+	"description": "Atom's iconic One Dark theme for Visual Studio Code",
+	"version": "0.1.0",
+	"publisher": "you-at4",
+	"engines": { "vscode": "^1.12.0" },
+	"categories": [
+			"Themes"
+		],
+	"contributes": {
+		"themes": [
+			{
+				"label": "One Dark Pro Custom",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OneDark-Pro-Custom.json"
+			}
+		]
+	}
+}
